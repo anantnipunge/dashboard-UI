@@ -4,6 +4,7 @@
   width: 100%;
   flex-wrap: wrap;
   margin-right: 10px;
+  border-radius: 10px;
 }
 .top{
     margin-top: 20px;
